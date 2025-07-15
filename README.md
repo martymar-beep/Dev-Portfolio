@@ -12,7 +12,6 @@ As a former writer, editor, and educator, I bring a strong eye for detail and co
 
 - HTML5  
 - CSS3  
-- JavaScript (vanilla)  
 - Responsive Design principles  
 - Font Awesome for icons  
 - VS Code (development)  
